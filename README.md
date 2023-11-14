@@ -1,0 +1,2 @@
+# Spelltower
+A Spelltower solver
